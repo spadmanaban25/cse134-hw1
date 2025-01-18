@@ -25,7 +25,7 @@ Netlify site url: https://remarkable-tulumba-085156.netlify.app/ <br><br><br>
 ![Waterfall](Waterfall_Graph.JPG)<br><br><br>
 
 **Question 3**
-![Screenshot_Of_Change](CSE_134_Question_3.jpg)<br><br><br>
+![Screenshot_Of_Change](CSE_134_Question_3.JPG)<br><br><br>
 
 ## **Part 2** <br>
 1. In the ESPN site, it took longer to find the **Top Headlines** due to the presence of many elements on the home page, so when pressing Tab, it would go all the way down a column of the page and go up the next column and repeat. This would repeat until I got to the last "column" of the page and the **Top Headlines** were located. <br><br>
