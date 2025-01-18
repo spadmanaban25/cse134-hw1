@@ -89,7 +89,7 @@ Portions of the UCLA website had disappeared including buttons to different webp
 **Question 5** <br>
 1. Google Hacking is a technique that uses advanced searching in order to uncover hidden information on the Internet. <br><br>
 
-2. If GoogleBot crawls malicious websites and retrieves data from them, it can update the overall Google Search Engine to store these types of file and data. A hacker perform Google Hacking would be able to retrieve these types of harmed files which could be troub**ling. <br><br>
+2. If GoogleBot crawls malicious websites and retrieves data from them, it can update the overall Google Search Engine to store these types of file and data. A hacker perform Google Hacking would be able to retrieve these types of harmed files which could be troubling. <br><br>
 
 3. Web Developers should be careful what data they post on their websites that are open to be crawled by GoogleBot. Moreover such sites should be secure, and a robots.txt should be considered to disallow GoogleBot if sensitive data/files are to be included in the website.  <br><br>
 
