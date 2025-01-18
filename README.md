@@ -47,13 +47,13 @@ Netlify site url: https://remarkable-tulumba-085156.netlify.app/ <br><br><br>
 
 
 4. 
-    | Data Type              | UCSD | UCI |
-    | :---------------- | :------: | ----: |
-    | Documents        |   0.97%   | 1.86% |
-    | Stylesheets          |   41.93%   | 4.55% |
-    | Scripts    |  10.17%   | 19.23% |
-    | Fonts |  2.5%   | 3.5% |
-    | Images |  43.54%  | 69.23%
+    |Data Type|UCSD|UCI|
+    |----------------|------|----|
+    |Documents|0.97%|1.86%|
+    |Stylesheets|41.93%|4.55%|
+    |Scripts|10.17%|19.23%|
+    |Fonts|2.5%|3.5%|
+    |Images|43.54%|69.23%|
 <br><br>
 
 **Question 2** <br><br>
